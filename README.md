@@ -2,6 +2,8 @@
 
 ## Description
 
+![logo](https://github.com/Brazol/stormy_streamer/assets/5622717/9af4eb97-ed85-43fb-82bb-85d6af033a4f)
+
 `stormy_streamer` Is a simple SDK package that gives the ability to search weather information for any location. It also contains simple weather forecast widget.
 
 ## Usage
